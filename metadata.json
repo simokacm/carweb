@@ -1,0 +1,5 @@
+{
+  "name": "Cardnd - Car Rental Morocco",
+  "description": "Secure car rentals across Morocco. Pay online or cash. Verified agencies.",
+  "requestFramePermissions": ["geolocation"]
+}
